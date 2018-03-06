@@ -1,4 +1,4 @@
-// RGB guessing game JavaScript functions 
+// RGB guessing game JavaScript functions
 
 // globals
 var pickedColor = null;
