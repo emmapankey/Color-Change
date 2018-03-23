@@ -75,3 +75,18 @@ button:hover {
 	max-width: 600px;
 }
 
+@media screen and (max-width: 479px) {
+	#colorDisplayId {
+		font-size: 100%;
+	}
+	#playNewGameId {
+		font-size: 14px;
+	}
+	#easyId {
+		font-size: 14px;
+	}
+	#hardId {
+		font-size: 14px;
+	}
+}	
+
